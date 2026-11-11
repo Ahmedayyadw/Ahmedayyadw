@@ -34,3 +34,7 @@ Electrification and energy efficiency of heavy machinery · digital twins · fau
 ## 🌐 Languages
 
 Arabic (native) · English (fluent) · Turkish
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aayyad1-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayyad1)
