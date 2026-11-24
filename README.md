@@ -8,7 +8,8 @@ My thesis builds a **digital twin of a Doosan DX300 hydraulic excavator** for AI
 
 | Project | What it is |
 |---|---|
-| [**dx300-sim**](https://github.com/Ahmedayyadw/dx300-sim) | Soft Actor-Critic vs PID control of the DX300 boom: energy vs accuracy, robustness to payload and model errors, Simscape validation. Paper in preparation (ICEEE 2027). |
+| [**dx300-sim**](https://github.com/Ahmedayyadw/dx300-sim) | Learned control of the DX300 boom: SAC, TD3, PPO, BC, CQL and IQL benchmarked against a payload-aware PID on energy and accuracy, with a Simscape-validated plant. No learner beats the tuned PID on both. |
+| [**dx300-rl-benchmark-paper**](https://github.com/Ahmedayyadw/dx300-rl-benchmark-paper) | LaTeX sources for *Is Reinforcement Learning Worth It?*, a benchmark-driven design study built on dx300-sim. Target: ICEEE 2027. |
 | **thesis-toolkit** *(private)* | Hydraulic fault-detection baselines on the UCI condition-monitoring dataset (RandomForest, grouped CV, tsfresh) and a hardware-free J1939 bus simulation. |
 
 ## 🧰 Toolbox
@@ -38,3 +39,4 @@ Arabic (native) · English (fluent) · Turkish
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aayyad1-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayyad1)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--4536--6468-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-4536-6468)
